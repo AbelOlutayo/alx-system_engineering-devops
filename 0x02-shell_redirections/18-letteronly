@@ -1,2 +1,2 @@
-echo '#!/bin/bash' > 18-letteronly
-echo 'grep '^[[:alpha:]]' /etc/ssh/sshd_config' >> 18-letteronly
+'#!/bin/bash'
+'grep '^[[:alpha:]]' /etc/ssh/sshd_config' >> 18-letteronly
